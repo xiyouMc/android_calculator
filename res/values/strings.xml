@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">androidYingYong</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">计算器</string>
+    <string name="result"></string>
+    <string name="calculate">=</string>
+    <string name="symbol">*</string>
+    <string name="clear"> c </string>
+    <string name="cal">=</string>
+    <string name="add">+</string>
+    <string name="cut">-</string>
+    <string name="devide">/</string>
+    <string name="error">ERROR</string>
+    <string name="code">其他符号</string>
+    <string name="Octal">八进制</string>
+    
+</resources>
